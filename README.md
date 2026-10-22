@@ -8,4 +8,4 @@
 
 ## **_Acerca del parque_**
 
-El Polo Identitario de Antofagasta:
+### El Polo Identitario de Antofagasta:
