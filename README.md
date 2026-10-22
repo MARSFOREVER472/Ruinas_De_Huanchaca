@@ -7,3 +7,5 @@
 **_Las Ruinas de Huanchaca son el principal vestigio de una antigua fundición de plata, localizada en Antofagasta, Chile. Fue declarado el día 7 de enero de 1974 como Monumento Histórico Nacional, según el Decreto Supremo nº 9 del Consejo de Monumentos Nacionales de Chile._**
 
 ## **_Acerca del parque_**
+
+El Polo Identitario de Antofagasta:
